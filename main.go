@@ -1,1 +1,3 @@
-::unc main(){}
+package main
+
+func main() {}
